@@ -36,3 +36,5 @@ La solución debe cumplir con los siguientes requisitos:
 6- Para mostrar el mayor / menor, utilizar la interfaz Comparable.
 
 7- Para imprimir por pantalla, sobrescribir el método toString()
+
+https://github.com/nucleomis/PNTtest/blob/main/Imagen1.png
