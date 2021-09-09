@@ -37,4 +37,4 @@ La solución debe cumplir con los siguientes requisitos:
 
 7- Para imprimir por pantalla, sobrescribir el método toString()
 
-https://github.com/nucleomis/PNTtest/blob/main/Imagen1.png
+![In what order to compile the files](https://github.com/nucleomis/PNTtest/blob/main/Imagen1.png)
